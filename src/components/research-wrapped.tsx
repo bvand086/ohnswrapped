@@ -33,7 +33,7 @@ const ResearchWrapped = () => {
                       <div className="font-semibold">$38,111 CAD</div>
                       <div className="text-xs mt-1">McMaster Surgical Associates Internal Research Grant</div>
                       <div className="text-sm mt-1 font-medium">
-                        "Responsiveness of a Machine-Learning Algorithm in Scoring the CAPE-V Using Non-Optimized Voice Samples"
+                        &quot;Responsiveness of a Machine-Learning Algorithm in Scoring the CAPE-V Using Non-Optimized Voice Samples&quot;
                       </div>
                       <div className="text-xs mt-1 opacity-80">
                         Applicants: Dr. Benjamin van der Woerd, Sophia Werden Abrams, Kaitlyn Hui, Anick Lamarche
@@ -43,7 +43,7 @@ const ResearchWrapped = () => {
                       <div className="font-semibold">$75,000 CAD</div>
                       <div className="text-xs mt-1">McMaster Innovation Matchmaking Award</div>
                       <div className="text-sm mt-1 font-medium">
-                        "Soft, Magnetically Actuated Continuum Robots for ENT Surgery"
+                        &quot;Soft, Magnetically Actuated Continuum Robots for ENT Surgery&quot;
                       </div>
                       <div className="text-xs mt-1 opacity-80">
                         Applicants: Dr. Onaizah Onaizah, Dr. Sarah Khalife, Dr. Benjamin van der Woerd
@@ -188,14 +188,14 @@ const ResearchWrapped = () => {
                       <Award className="w-5 h-5 mr-2" />
                       Highest Altmetric Score (19)
                     </div>
-                    <div>"Extent of Endoscopic Sinus Surgery in Chronic Rhinosinusitis"</div>
+                    <div>&quot;Extent of Endoscopic Sinus Surgery in Chronic Rhinosinusitis&quot;</div>
                   </li>
                   <li className="bg-white/10 p-3 rounded-lg">
                     <div className="font-bold flex items-center">
                       <TrendingUp className="w-5 h-5 mr-2" />
                       Most Cited
                     </div>
-                    <div>"Comparison of upper and lower airway expression of SARS‐CoV‐2 receptors in allergic asthma"</div>
+                    <div>&quot;Comparison of upper and lower airway expression of SARS‐CoV‐2 receptors in allergic asthma&quot;</div>
                   </li>
                 </ul>
               </div>
@@ -302,21 +302,21 @@ const ResearchWrapped = () => {
                 <h4 className="font-bold mb-2">Selected Publications:</h4>
                 <ul className="space-y-2">
                   <li className="bg-white/10 p-3 rounded-lg">
-                    <div className="font-semibold">"Extent of Endoscopic Sinus Surgery in Chronic Rhinosinusitis"</div>
+                    <div className="font-semibold">&quot;Extent of Endoscopic Sinus Surgery in Chronic Rhinosinusitis&quot;</div>
                     <div className="text-sm mt-1 flex items-center">
                       <Star className="w-4 h-4 mr-1" />
                       Altmetric: 19
                     </div>
                   </li>
                   <li className="bg-white/10 p-3 rounded-lg">
-                    <div className="font-semibold">"Comparison of upper and lower airway expression of SARS‐CoV‐2 receptors in allergic asthma"</div>
+                    <div className="font-semibold">&quot;Comparison of upper and lower airway expression of SARS‐CoV‐2 receptors in allergic asthma&quot;</div>
                     <div className="text-sm mt-1 flex items-center">
                       <Quote className="w-4 h-4 mr-1" />
                       Citations: 1
                     </div>
                   </li>
                   <li className="bg-white/10 p-3 rounded-lg">
-                    <div className="font-semibold">"Traumatic penetrating head injury by crossbow projectiles"</div>
+                    <div className="font-semibold">&quot;Traumatic penetrating head injury by crossbow projectiles&quot;</div>
                     <div className="text-sm mt-1 flex items-center">
                       <Quote className="w-4 h-4 mr-1" />
                       Citations: 1
