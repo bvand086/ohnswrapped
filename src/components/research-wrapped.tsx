@@ -2,8 +2,7 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Card, CardContent } from '@/components/ui/card';
-import { TrendingUp, BookOpen, Users, Award, Quote, DollarSign, FileText, Globe, Star, Target, Zap, Building2, ChevronDown } from 'lucide-react';
+import { TrendingUp, BookOpen, Users, Award, Quote, DollarSign, FileText, Globe, Star, Target, Zap, Building2 } from 'lucide-react';
 import ExpandableCard from './expandable-card';
 
 const ResearchWrapped = () => {
